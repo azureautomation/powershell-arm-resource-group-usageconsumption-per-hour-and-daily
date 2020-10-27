@@ -1,0 +1,20 @@
+{
+    "Author": "Rodrigo Estrada Irribarra",
+    "ContentSize": 2265,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-arm-resource-group-usageconsumption-per-hour-and-daily/master/Get-RMUsageAggregates.ps1",
+    "DownloadCount": 1307,
+    "Id": "Powershell-ARM-Resource-31113165",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 139,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-12-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This cmdlet is based on Get-UsageAggregates\u00a0to get the usage of a specific resource group.",
+    "Title": "Powershell - ARM Resource Group usage/consumption per hour and daily",
+    "UpdatedDate": "2015-12-28T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-arm-resource-group-usageconsumption-per-hour-and-daily",
+    "UserTags": "Billing, Azure Resource Manager, powershell cmdlets"
+}
